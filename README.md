@@ -18,7 +18,7 @@ fun main() {
     println("See you later")
     }
 
-    enum class animalZoo(val nameAnimal: String){
+enum class animalZoo(val nameAnimal: String){
      camel("""Switching on the camera in the camel habitat...
  ___.-''''-.
 /___  @    |
